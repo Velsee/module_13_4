@@ -5,7 +5,7 @@ import asyncio
 
 
 # Создание объектов бота и диспетчера
-api = "7083512716:AAHlrvU_5vCYacqjqMbhzDAgoGBb7c3sURU"
+api = "&&&"
 bot = Bot(token = api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
